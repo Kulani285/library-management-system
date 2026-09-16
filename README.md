@@ -15,16 +15,14 @@ Author: Kulani Chauke
 ## Project Methodology
 This project is being built in public, one SDLC/STLC phase at a time, with each phase's artifacts committed to the `docs/` folder before development begins. The goal is to show the full process a real software project goes through, not just the finished code.
 
-### Progress
-
-| Phase | Status |
-|---|---|
-| 1. Requirement Analysis (SRS) | ✅ Complete — see [`docs/01-requirements/SRS.md`](docs/01-requirements/SRS.md) |
-| 2. Design (Architecture, ER Diagram) | 🔄 In Progress — see docs/02-design/ |
-| 3. Implementation | ⏳ Not started |
-| 4. Testing (STLC) | ⏳ Not started |
-| 5. Deployment | ⏳ Not started |
-| 6. Maintenance | ⏳ Not started |
+Progress
+Phase	Status
+1. Requirement Analysis (SRS)	✅ Complete — see docs/01-requirements/SRS.md
+2. Design (Architecture, ER Diagram)	🔄 In Progress — see docs/02-design/
+3. Implementation	⏳ Not started
+4. Testing (STLC)	⏳ Not started
+5. Deployment	⏳ Not started
+6. Maintenance	⏳ Not started
 
 ## Core Features (planned)
 - Catalog management with search and availability tracking
