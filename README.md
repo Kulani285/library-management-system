@@ -20,7 +20,7 @@ This project is being built in public, one SDLC/STLC phase at a time, with each 
 | Phase | Status |
 |---|---|
 | 1. Requirement Analysis (SRS) | ✅ Complete — see [`docs/01-requirements/SRS.md`](docs/01-requirements/SRS.md) |
-| 2. Design (Architecture, ER Diagram) | ⏳ Not started |
+| 2. Design (Architecture, ER Diagram) | 🔄 In Progress — see docs/02-design/ |
 | 3. Implementation | ⏳ Not started |
 | 4. Testing (STLC) | ⏳ Not started |
 | 5. Deployment | ⏳ Not started |
